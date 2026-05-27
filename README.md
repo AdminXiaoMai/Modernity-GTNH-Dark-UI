@@ -43,5 +43,13 @@ You can use [DarkTextFix (Oiginal repository)](https://github.com/eudesjuniorr/D
 And we have the special support version of the [DarkTextFix](https://github.com/AdminXiaoMai/DarkTextFix)**\***. Thanks to Admin_XiaoMai!  
 **\*** This version will not support [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font). Please use [Angelica](https://github.com/GTNewHorizons/Angelica) to change the fonts. 
 
+### Developers
+
+Thanks to the following developers for their contributions to Modernity-GTNH-Dark-UI:
+
+<a href="https://github.com/ModernityGTNH/Modernity-GTNH-Dark-UI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ModernityGTNH/Modernity-GTNH-Dark-UI&max=1000" alt="contributors" />
+</a>
+
 ### Licensing
  [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
