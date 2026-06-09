@@ -1,17 +1,55 @@
-# Modernity-GTNH
+<p align="center">
+    <a href="https://github.com/ModernityGTNH/Modernity-GTNH-Dark-UI/releases/latest">
+        <img src="pack.png" width="150">
+    </a>
+</p>
 
-The objective of this resource pack is to update all the textures of GTNH to the style of Minecraft 1.14.4+.
+# Modernity-GTNH-Dark-UI
 
-However, due to recent extensive changes and modifications being made to GTNH and its related Gregtech modules, we are not currently updating the textures of GT.
+The objective of this resource pack is to update ~~all~~ most of the GUI elements to the dark-version style of [Applied Energistics 2](https://github.com/AppliedEnergistics/Applied-Energistics-2) in Minecraft 1.21.1+.Some will be updated to match the higher version's style of the mods. \
+Suggested to use with [Modernity-GTNH](https://github.com/ModernityGTNH/Modernity-GTNH)
 
-It's still work in progress, and it is expected to be compatible with GTNH version 2.6.0.
+It's still work in progress, and it is expected to be compatible with GTNH version ~~2.6.0, 2.7.1, 2.8.0~~ 2.9.0
 
 ## Features
+All the GUI elements used in the mods of GTNH will be supported.
 
-All textures, including UI elements, blocks, and items, will be completely redrawn.
+Extra supports:
+1. [Catalogue](https://github.com/JackOfNoneTrades/Catalogue-Vintage)
+2. [Just Enough Calculation](https://github.com/GTNewHorizons/JustEnoughCalculation)
+3. [Cosmetic Armor Reworked](https://github.com/zlainsama/CosmeticArmorReworked)
+4. [Industrial Craft 2](https://www.industrial-craft.net/) (Fully Supported!)
+5. [World Edit](https://github.com/GTNewHorizons/worldedit-gtnh)
+6. [Decocraft](https://www.curseforge.com/minecraft/mc-mods/decocraft)
+7. [Extreme Sound Muffler: Legacy](https://github.com/Lyfts/ExtremeSoundMuffler-Legacy)
+8. [Trash Slot](https://github.com/TwelveIterations/TrashSlot)
+9. [MineTunes](https://github.com/kotmatross28729/MineTunes)
+10. [Box Plus Plus](https://github.com/RealSilverMoon/BoxPlusPlus)
+11. [GT Not Leisure](https://github.com/ABKQPO/GT-Not-Leisure)
+12. [Think Tech](https://github.com/Ol925/ThinkTech)
+13. [Programmable Hatches Mod](https://github.com/reobf/Programmable-Hatches-Mod)
+14. [AE2 Thing](https://github.com/asdflj/AE2Things)
 
+Special Supports:
+You will have a new style of better questing book! Enjoy it XD!
 
+## Related resourcepacks
+Modernity-GTNH [Modernity-GTNH](https://github.com/ModernityGTNH/Modernity-GTNH) \
+Modernity-GTNH-UI [Modernity-GTNH-UI](https://github.com/ModernityGTNH/Modernity-GTNH-UI)
+
+## About Text Readability Issue
+Minecraft hardcodes the container GUI title text color to 0x404040 (dark gray). This is designed for the vanilla light-colored GUI backgrounds, but becomes nearly invisible when using dark-themed resource packs. \
+You can use [DarkTextFix (Oiginal repository)](https://github.com/eudesjuniorr/DarkTextFix) to fix the problem. \
+And we have the special support version of the [DarkTextFix](https://github.com/AdminXiaoMai/DarkTextFix)**\***. Thanks to Admin_XiaoMai!  
+**\*** This version will not support [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font). Please use [Angelica](https://github.com/GTNewHorizons/Angelica) to change the fonts. 
+
+### Developers
+
+Thanks to the following developers for their contributions to Modernity-GTNH-Dark-UI:
+
+<a href="https://github.com/ModernityGTNH/Modernity-GTNH-Dark-UI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ModernityGTNH/Modernity-GTNH-Dark-UI&max=1000" alt="contributors" />
+</a>
 
 ### Licensing
-
  [![](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-yellow.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
